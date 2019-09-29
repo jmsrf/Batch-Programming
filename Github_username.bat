@@ -4,7 +4,7 @@
 :start
 cls
 echo.
-echo Github-profile opener
+echo GitHub-profile opener
 echo.
 echo Please type GitHub-username and your Internet browser will open it.
 echo.

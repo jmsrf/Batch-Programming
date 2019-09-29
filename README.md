@@ -1,2 +1,2 @@
 # Batch-Programming
-Batch scripts
+This repositiry contains batch scripts.

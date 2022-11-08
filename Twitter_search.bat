@@ -6,8 +6,8 @@ echo Twitter-tweet search
 echo.
 echo Type search terms without hashtag (#). For example: Hockey
 echo.
-set /p Web=
-start https://twitter.com/search?q=%Web%&src=typd
+set /p Input=
+start https://twitter.com/search?q=%Input%&src=typed_query
 goto start
 
 
